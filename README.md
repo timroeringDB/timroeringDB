@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Tim
+- 👀 I’m interested in coding the best app ever
+- 🌱 I’m currently learning SwiftUI + combine
+- 📫 How to reach me Rocketchat or via Teams
